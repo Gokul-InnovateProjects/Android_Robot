@@ -1,0 +1,494 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.head,
+.lftarm,
+.rgtarm,
+.lftleg,
+.rgtleg,
+.tarso {
+    background-color: greenyellow;
+}
+
+.head {
+    height: 150px;
+    width: 200px;
+    border-radius: 90px 90px 0 0;
+    margin: 0 auto;
+
+}
+
+.eyes {
+    position: absolute;
+    top: 180px;
+}
+
+
+.lfteye,
+.rgteye {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.lfteye {
+    margin-left: 50px;
+}
+
+.rgteye {
+    margin-left: 50px;
+}
+
+.uprbody {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.tarso {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 0 50px 50px;
+
+}
+
+.lftarm,
+.rgtarm {
+    width: 40px;
+    height: 125px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.lftarm {
+    margin-right: 10px;
+}
+
+.rgtarm {
+    margin-left: 10px;
+}
+
+.lwrbody {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.lftleg,
+.rgtleg {
+    width: 40px;
+    height: 120px;
+    border-radius: 0 0 100px 100px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.head,
+.lftarm,
+.rgtarm,
+.lftleg,
+.rgtleg,
+.tarso {
+    background-color: greenyellow;
+}
+
+.head {
+    height: 150px;
+    width: 200px;
+    border-radius: 90px 90px 0 0;
+    margin: 0 auto;
+
+}
+
+.eyes {
+    position: absolute;
+    top: 180px;
+}
+
+
+.lfteye,
+.rgteye {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.lfteye {
+    margin-left: 50px;
+}
+
+.rgteye {
+    margin-left: 50px;
+}
+
+.uprbody {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.tarso {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 0 50px 50px;
+
+}
+
+.lftarm,
+.rgtarm {
+    width: 40px;
+    height: 125px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.lftarm {
+    margin-right: 10px;
+}
+
+.rgtarm {
+    margin-left: 10px;
+}
+
+.lwrbody {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.lftleg,
+.rgtleg {
+    width: 40px;
+    height: 120px;
+    border-radius: 0 0 100px 100px;
+    display: inline-block;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1 {
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+
+.head,
+.lftarm,
+.rgtarm,
+.lftleg,
+.rgtleg,
+.tarso {
+    background-color: greenyellow;
+}
+
+.head {
+    height: 150px;
+    width: 200px;
+    border-radius: 90px 90px 0 0;
+    margin: 0 auto;
+
+}
+
+.eyes {
+    position: absolute;
+    top: 180px;
+}
+
+
+.lfteye,
+.rgteye {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.lfteye {
+    margin-left: 50px;
+}
+
+.rgteye {
+    margin-left: 50px;
+}
+
+.uprbody {
+    width: 300px;
+    height: 150px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.tarso {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px 50px 50px 50px;
+
+}
+
+.lftarm,
+.rgtarm {
+    width: 40px;
+    height: 125px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.lftarm {
+    margin-right: 10px;
+}
+
+.rgtarm {
+    margin-left: 10px;
+}
+
+.lwrbody {
+    width: 200px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.lftleg,
+.rgtleg {
+    width: 40px;
+    height: 120px;
+    border-radius: 0 0 100px 100px;
+    display: inline-block;
+}
+
+.lftleg {
+    margin-left: 45px;
+}
+
+.rgtleg {
+    margin-left: 30px;
+}
+
+.robot:hover .head {
+    animation: movehead 2s infinite;
+}
+
+@keyframes movehead {
+    0% {
+        width: 200px;
+    }
+
+    25% {
+        width: 300px;
+    }
+
+    50% {
+        width: 200px;
+    }
+
+    75% {
+        width: 300px;
+    }
+
+    100% {
+        width: 200px;
+    }
+}
+
+.robot:hover .lftarm {
+    animation: movelftarm 1s infinite;
+}
+
+@keyframes movelftarm {
+    0% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+
+    25% {
+        rotate: 90deg;
+        transform-origin: top-center;
+    }
+
+    50% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+
+    75% {
+        rotate: 90deg;
+        transform-origin: top-center;
+
+        100% {
+            rotate: 0deg;
+            transform-origin: top-center;
+        }
+    }
+}
+
+.robot:hover .rgtarm {
+    animation: movergtarm 1s infinite;
+}
+
+@keyframes movergtarm {
+    0% {
+        rotate: -0deg;
+        transform-origin: top-center;
+    }
+
+    25% {
+        rotate: -90deg;
+        transform-origin: top-center;
+    }
+
+    50% {
+        rotate: -0deg;
+        transform-origin: top-center;
+    }
+
+    75% {
+        rotate: -90deg;
+        transform-origin: top-center;
+
+        100% {
+            rotate: -0deg;
+            transform-origin: top-center;
+        }
+    }
+}
+
+.robot:hover .tarso {
+    animation: bodyrotate 0.5s infinite;
+}
+
+@keyframes bodyrotate {
+    0% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+
+    25% {
+        rotate: 45deg;
+        transform-origin: top-center;
+    }
+
+    50% {
+        rotate: 90deg;
+        transform-origin: top-center;
+    }
+
+    75% {
+        rotate: 180deg;
+        transform-origin: top-center;
+    }
+
+    100% {
+        rotate: 270deg;
+        transform-origin: top-center;
+    }
+
+}
+
+.robot:hover .lftleg {
+    animation: moveleftleg 1s infinite;
+}
+
+@keyframes moveleftleg {
+    0% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+
+    25% {
+        rotate: 40deg;
+        transform-origin: top-center;
+    }
+
+    50% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+
+    75% {
+        rotate: 40deg;
+        transform-origin: top-center;
+    }
+
+    100% {
+        rotate: 0deg;
+        transform-origin: top-center;
+    }
+}
+
+.robot:hover .rgtleg {
+    animation: moverightleg 1s infinite;
+}
+
+@keyframes moverightleg {
+    0% {
+        rotate: -0deg;
+        transform-origin: top-center;
+    }
+
+    25% {
+        rotate: -40deg;
+        transform-origin: top-center;
+    }
+
+    50% {
+        rotate: -0deg;
+        transform-origin: top-center;
+    }
+
+    75% {
+        rotate: -40deg;
+        transform-origin: top-center;
+    }
+
+    100% {
+        rotate: -0deg;
+        transform-origin: top-center;
+    }
+}
